@@ -8,7 +8,7 @@
 
 3. 无线网卡(Atheros AR9285)（注：若无效请搜索AR9285的驱动方式）
 
-4. 声卡(Conexant *CX20590*)（注：准备了VoodooHDA和AppleALC两种驱动方式，根据个人喜好选择，VoodooHDA请在设置面板内调整并加入VoodooHDA SettingsLoader，AppleALC下麦克风无输入电平）
+4. 声卡(Conexant CX20590)（注：准备了VoodooHDA和AppleALC两种驱动方式，根据个人喜好选择，VoodooHDA请在设置面板内调整并加入VoodooHDA SettingsLoader，AppleALC下麦克风无输入电平）
 5. 睡眠可进入且不会自动唤醒/睡死，原生电源管理已加载
 6. 电源电量显示且可在显示器页面调整亮度，触控板已驱动
 
