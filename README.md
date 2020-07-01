@@ -24,9 +24,9 @@
 
 ## 四、图片：
 
-![image-20200701135513988](/Users/marxleaf/Desktop/CLOVER/G470/image-20200701135513988.png)
+![image-20200701135513988](./image-20200701135513988.png)
 
-![image-20200701135649800](/Users/marxleaf/Desktop/CLOVER/G470/image-20200701135649800.png)
+![image-20200701135649800](./image-20200701135649800.png)
 
 
 
