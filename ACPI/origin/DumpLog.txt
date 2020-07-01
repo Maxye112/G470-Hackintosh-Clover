@@ -1,0 +1,76 @@
+79:781  0:033  Found BIOS RSDP at FE020
+79:781  0:000  Saving ACPI tables from RSDP FE020 to EFI\CLOVER\ACPI\origin ...
+79:781  0:000   FE020: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+79:781  0:000    (Xsdt: BCFFE120, Rsdt: BCFFE0AC)
+79:781  0:000    BCFFE120: 'XSDT', 'CB-01', Rev: 1, Len: 132
+79:781  0:000    BCFFE0AC: 'RSDT', 'CB-01', Rev: 1, Len: 84
+79:781  0:000    Tables in Xsdt: 12
+79:781  0:000    0. BCFFB000: 'FACP', 'CB-01', Rev: 4, Len: 244
+79:781  0:000        (Dsdt: BCFEE000, Facs: BCF6E000, XDsdt: BCFEE000, XFacs: BCF6E000)
+79:781  0:000        BCFEE000: 'DSDT', 'CB-01', Rev: 1, Len: 37774
+79:782  0:000        BCF6E000: 'FACS', Ver: 1, Len: 64
+79:782  0:000    1. BCFFD000: 'SLIC', 'CB-01', Rev: 1, Len: 374
+79:782  0:000    2. BCFFC000: 'ASF!', 'HR CRB', Rev: 32, Len: 165
+79:782  0:000    3. BCFFA000: 'HPET', 'CB-01', Rev: 1, Len: 56
+79:782  0:000    4. BCFF9000: 'APIC', 'HR CRB', Rev: 2, Len: 140
+79:782  0:000    5. BCFF8000: 'MCFG', 'CB-01', Rev: 1, Len: 60
+79:782  0:000    6. BCFED000: 'WDAT', 'HR CRB', Rev: 1, Len: 548
+79:782  0:000    7. BCFEC000: 'SSDT', 'HR CRB', Rev: 1, Len: 1790
+79:782  0:000    8. BCFEA000: 'BOOT', 'HR CRB', Rev: 1, Len: 40
+79:782  0:000    9. BCFE7000: 'ASPT', 'HR CRB', Rev: 7, Len: 52
+79:782  0:000    10. BCFE6000: 'SSDT', 'HR CRB', Rev: 1, Len: 1986
+79:782  0:000    11. BCFE5000: 'SSDT', 'HR CRB', Rev: 1, Len: 2454
+79:782  0:000    Tables in Rsdt: 12
+79:782  0:000    0. BCFFB000: 'FACP', 'CB-01', Rev: 4, Len: 244
+79:782  0:000        (Dsdt: BCFEE000, Facs: BCF6E000, XDsdt: BCFEE000, XFacs: BCF6E000)
+79:782  0:000        BCFEE000: 'DSDT', 'CB-01', Rev: 1, Len: 37774
+79:783  0:000        BCF6E000: 'FACS', Ver: 1, Len: 64
+79:783  0:000    1. BCFFD000: 'SLIC', 'CB-01', Rev: 1, Len: 374
+79:783  0:000    2. BCFFC000: 'ASF!', 'HR CRB', Rev: 32, Len: 165
+79:783  0:000    3. BCFFA000: 'HPET', 'CB-01', Rev: 1, Len: 56
+79:783  0:000    4. BCFF9000: 'APIC', 'HR CRB', Rev: 2, Len: 140
+79:783  0:000    5. BCFF8000: 'MCFG', 'CB-01', Rev: 1, Len: 60
+79:783  0:000    6. BCFED000: 'WDAT', 'HR CRB', Rev: 1, Len: 548
+79:783  0:000    7. BCFEC000: 'SSDT', 'HR CRB', Rev: 1, Len: 1790
+79:783  0:000    8. BCFEA000: 'BOOT', 'HR CRB', Rev: 1, Len: 40
+79:783  0:000    9. BCFE7000: 'ASPT', 'HR CRB', Rev: 7, Len: 52
+79:783  0:000    10. BCFE6000: 'SSDT', 'HR CRB', Rev: 1, Len: 1986
+79:783  0:000    11. BCFE5000: 'SSDT', 'HR CRB', Rev: 1, Len: 2454
+79:783  0:000  Found UEFI Acpi 2.0 RSDP at 1FEEA000
+79:783  0:000  Printing ACPI tables from RSDP 1FEEA000 ...
+79:783  0:000   1FEEA000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+79:783  0:000    (Xsdt: BCFFE120, Rsdt: BCFFE0AC)
+79:783  0:000    BCFFE120: 'XSDT', 'CB-01', Rev: 1, Len: 132
+79:783  0:000    BCFFE0AC: 'RSDT', 'CB-01', Rev: 1, Len: 84
+79:783  0:000    Tables in Xsdt: 12
+79:783  0:000    0. BCFFB000: 'FACP', 'CB-01', Rev: 4, Len: 244
+79:783  0:000        (Dsdt: BCFEE000, Facs: BCF6E000, XDsdt: BCFEE000, XFacs: BCF6E000)
+79:783  0:000        BCFEE000: 'DSDT', 'CB-01', Rev: 1, Len: 37774
+79:783  0:000        BCF6E000: 'FACS', Ver: 1, Len: 64
+79:783  0:000    1. BCFFD000: 'SLIC', 'CB-01', Rev: 1, Len: 374
+79:783  0:000    2. BCFFC000: 'ASF!', 'HR CRB', Rev: 32, Len: 165
+79:783  0:000    3. BCFFA000: 'HPET', 'CB-01', Rev: 1, Len: 56
+79:783  0:000    4. BCFF9000: 'APIC', 'HR CRB', Rev: 2, Len: 140
+79:783  0:000    5. BCFF8000: 'MCFG', 'CB-01', Rev: 1, Len: 60
+79:784  0:000    6. BCFED000: 'WDAT', 'HR CRB', Rev: 1, Len: 548
+79:784  0:000    7. BCFEC000: 'SSDT', 'HR CRB', Rev: 1, Len: 1790
+79:784  0:000    8. BCFEA000: 'BOOT', 'HR CRB', Rev: 1, Len: 40
+79:784  0:000    9. BCFE7000: 'ASPT', 'HR CRB', Rev: 7, Len: 52
+79:784  0:000    10. BCFE6000: 'SSDT', 'HR CRB', Rev: 1, Len: 1986
+79:784  0:000    11. BCFE5000: 'SSDT', 'HR CRB', Rev: 1, Len: 2454
+79:784  0:000    Tables in Rsdt: 12
+79:784  0:000    0. BCFFB000: 'FACP', 'CB-01', Rev: 4, Len: 244
+79:784  0:000        (Dsdt: BCFEE000, Facs: BCF6E000, XDsdt: BCFEE000, XFacs: BCF6E000)
+79:784  0:000        BCFEE000: 'DSDT', 'CB-01', Rev: 1, Len: 37774
+79:784  0:000        BCF6E000: 'FACS', Ver: 1, Len: 64
+79:784  0:000    1. BCFFD000: 'SLIC', 'CB-01', Rev: 1, Len: 374
+79:784  0:000    2. BCFFC000: 'ASF!', 'HR CRB', Rev: 32, Len: 165
+79:784  0:000    3. BCFFA000: 'HPET', 'CB-01', Rev: 1, Len: 56
+79:784  0:000    4. BCFF9000: 'APIC', 'HR CRB', Rev: 2, Len: 140
+79:784  0:000    5. BCFF8000: 'MCFG', 'CB-01', Rev: 1, Len: 60
+79:784  0:000    6. BCFED000: 'WDAT', 'HR CRB', Rev: 1, Len: 548
+79:784  0:000    7. BCFEC000: 'SSDT', 'HR CRB', Rev: 1, Len: 1790
+79:784  0:000    8. BCFEA000: 'BOOT', 'HR CRB', Rev: 1, Len: 40
+79:784  0:000    9. BCFE7000: 'ASPT', 'HR CRB', Rev: 7, Len: 52
+79:784  0:000    10. BCFE6000: 'SSDT', 'HR CRB', Rev: 1, Len: 1986
+79:784  0:000    11. BCFE5000: 'SSDT', 'HR CRB', Rev: 1, Len: 2454
