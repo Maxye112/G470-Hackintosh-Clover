@@ -134,15 +134,19 @@
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
 				<key>AAPL,snb-platform-id</key>
-				<data>AAABAA==</data>
+				<data>
+				AAABAA==
+				</data>
 				<key>device-id</key>
-				<data>JgEAAA==</data>
+				<data>
+				JgEAAA==
+				</data>
 				<key>device_type</key>
 				<string>VGA compatible controller</string>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>model</key>
-				<string>Intel 2nd Generation Core Processor Family Integrated Graphics Controller</string>
+				<string>Intel HD Graphics 3000</string>
 			</dict>
 		</dict>
 		<key>USB</key>
@@ -199,7 +203,12 @@
 		<key>EDID</key>
 		<dict>
 			<key>Custom</key>
-			<data>AP///////wAw5OICAAAAAAEUAQOAHxF46jOFmVZVkScXUFQAAAABAQEBAQEBAQEBAQEBAQEBgCVAgGCEGjAwIDUANq4QAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAA/gBMZW5vdm8KICAgICAgAAAA/gAxNjAweDkwMAogICAgAKU=</data>
+			<data>
+			AP///////wAw5OICAAAAAAEUAQOAHxF46jOFmVZVkScXUFQAAAAB
+			AQEBAQEBAQEBAQEBAQEBgCVAgGCEGjAwIDUANq4QAAAYAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAA/gBMZW5vdm8KICAgICAgAAAA/gAxNjAw
+			eDkwMAogICAgAKU=
+			</data>
 			<key>Inject</key>
 			<true/>
 		</dict>
@@ -224,7 +233,9 @@
 			<key>Comment</key>
 			<string>hd3000</string>
 			<key>Find</key>
-			<data>x0XQAAAAGA==</data>
+			<data>
+			x0XQAAAAGA==
+			</data>
 			<key>InfoPlistPatch</key>
 			<false/>
 			<key>MatchOS</key>
@@ -232,7 +243,9 @@
 			<key>Name</key>
 			<string>com.apple.driver.AppleIntelSNBGraphicsFB</string>
 			<key>Replace</key>
-			<data>x0XQAAAAQA==</data>
+			<data>
+			x0XQAAAAQA==
+			</data>
 		</dict>
 		<key>AppleIntelCPUPM</key>
 		<true/>
@@ -256,7 +269,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>cGNpMTY4YywyYQ==</data>
+				<data>
+				cGNpMTY4YywyYQ==
+				</data>
 				<key>InfoPlistPatch</key>
 				<true/>
 				<key>MatchOS</key>
@@ -264,7 +279,9 @@
 				<key>Name</key>
 				<string>AirPortAtheros40</string>
 				<key>Replace</key>
-				<data>cGNpMTY4YywyYg==</data>
+				<data>
+				cGNpMTY4YywyYg==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -272,7 +289,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>g32MEA==</data>
+				<data>
+				g32MEA==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -280,7 +299,9 @@
 				<key>Name</key>
 				<string>AppleUSBXHCIPCI</string>
 				<key>Replace</key>
-				<data>g32MGQ==</data>
+				<data>
+				g32MGQ==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -288,7 +309,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>AEFQUExFIFNTRAA=</data>
+				<data>
+				AEFQUExFIFNTRAA=
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -296,7 +319,9 @@
 				<key>Name</key>
 				<string>com.apple.iokit.IOAHCIBlockStorage</string>
 				<key>Replace</key>
-				<data>AAAAAAAAAAAAAAA=</data>
+				<data>
+				AAAAAAAAAAAAAAA=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -304,7 +329,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>SIXAdAeAiyA=</data>
+				<data>
+				SIXAdAeAiyA=
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -312,7 +339,9 @@
 				<key>Name</key>
 				<string>IONVMeFamily</string>
 				<key>Replace</key>
-				<data>SIXAkJCAiyA=</data>
+				<data>
+				SIXAkJCAiyA=
+				</data>
 			</dict>
 		</array>
 	</dict>
